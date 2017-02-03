@@ -1,4 +1,3 @@
-# piierreG13.github.io
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,14 +8,13 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-<h1>PierreGrouardTdI</h1>
-<a href="https://piierreG13.github.io/bitcoin"> bitcoin</a>
 <div class="btn-group">
   <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Action <span class="caret"></span>
   </button>
   <ul class="dropdown-menu">
     <li><a href="#">Action</a></li>
+    <li><a href="https://piierreG13.github.io/bitcoin"> bitcoin</a></li>
     <li><a href="#">Another action</a></li>
     <li><a href="#">Something else here</a></li>
     <li role="separator" class="divider"></li>
