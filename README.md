@@ -5,6 +5,6 @@
 </head>
 <body>
 <h1>PierreGrouardTdI</h1>
-<a href="https://piierreG13.github.io/bitcoin">Bitcoin</a>
+<a href="https://piierreG13.github.io/bitcoin">bitcoin</a>
 </body>
 </html>
