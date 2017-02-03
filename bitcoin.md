@@ -4,6 +4,5 @@
 </head>
 <body>
 <h1>bitcoin</h1>
-<p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
