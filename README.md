@@ -22,7 +22,13 @@
   <li role="presentation"><a href="#">Messages</a></li>
   <li><a href="https://piierreG13.github.io/bitcoin"> bitcoin </a></li>
 </ul>
-
+<div class="row">
+	<div class="col-lg-12 col-xs-6">
+    	<pre>
+        	<code id="demo" class="json kljs"></code>
+    	</pre>
+	</div>
+</div>
 
 
 </body>
