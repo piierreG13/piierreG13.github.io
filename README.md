@@ -1,5 +1,6 @@
 <html>
 <head>
+<title> Page d'acceuil </title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -12,7 +13,7 @@
   <li role="presentation" class="active"><a href="#">Home</a></li>
   <li role="presentation"><a href="#">Profile</a></li>
   <li role="presentation"><a href="#">Messages</a></li>
-  <li><a> href = "Projet/bitcoin/" bitcoin </a></li>
+  <li><a> href="https://piierreG13.github.io/bitcoin"> bitcoin </a></li>
 </ul>
 
 
