@@ -15,19 +15,6 @@
 <h1>Explorateur Bitcoin</h1>
 <h2>PierreGROUARD</h2>
 <h2>NimaFAGANDHAR</h2>
-<div class="row">
-			<div class="col-lg-12 col-xs-6">
-    			<h1>
-        			Bitcoin : <span id="bitcoin_block_number"></span>
-				<br>
-				Difficulty : <span id="difficulty"></span> 
-    			</h1>
-			</div>
-		</div>
-
-		<a href="../../">Ma page bitcoin</a> <br />
-
-		<a href="../bitcoin/Explorer/"> Nouvelle page</a>
 
 <ul class="nav nav-pills">
   <li role="presentation" class="active"><a href="#">Home</a></li>
