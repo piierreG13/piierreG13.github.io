@@ -15,5 +15,11 @@
   <li><a href="https://piierreG13.github.io/bitcoin"> bitcoin</a></li>
 </ul>
 
+<a href="Projet/bitcoin/">ma page bitcoin</a>
+
+
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
 </body>
 </html>
