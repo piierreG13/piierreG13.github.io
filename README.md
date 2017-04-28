@@ -12,10 +12,10 @@
   <li role="presentation" class="active"><a href="#">Home</a></li>
   <li role="presentation"><a href="#">Profile</a></li>
   <li role="presentation"><a href="#">Messages</a></li>
-  <li><a href="https://piierreG13.github.io/bitcoin"> bitcoin</a></li>
+  <li><a> href = "Projet/bitcoin/" bitcoin </a></li>
 </ul>
 
-<a href="Projet/bitcoin/">ma page bitcoin</a>
+
 
 </body>
 </html>
